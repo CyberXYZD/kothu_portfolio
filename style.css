@@ -1,0 +1,18 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+
+  padding: 0;
+  scroll-behaviour: smooth;
+}
+
+a:hover {
+  background-color: red;
+  /* border: none; */
+  border-radius: 10px;
+}
+
+.projectbg:hover {
+  background-color: #f5dcda;
+  transition: 1s all;
+}
